@@ -1,0 +1,14 @@
+layout_spectrum: 0.9864822363015264
+typography_spectrum: 0.4706415559630841
+color:
+  brandStrength: 0.673165436135605
+  lightness: 0.14547285810112953
+  saturation: 0.8657194601837546
+  rhythmicContrast: 0.7443995596840978
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Linchpin
